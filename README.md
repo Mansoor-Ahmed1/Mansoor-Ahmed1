@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mansoor-Ahmed1
-- 👀 I’m interested in Data Management and Application Development and Artificial Intelligence.
+- 👀 I’m interested in Data Management, Application Development and Artificial Intelligence.
 - 🌱 I’m currently learning Data Science & Artificial Intelligence .
 - 💞️ I’m looking to collaborate on Flutter Application Projects (currently).
 - 📫 How to reach me : E-Mail on mansoor.ahmed11521@gmail.com
