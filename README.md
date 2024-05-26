@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mansoor-Ahmed1
+- 👋 Hi, I’m Mansoor Ahmed
 - 👀 I’m interested in Web Development, Artificial Intelligence & Data Science
 - 🌱 I’m currently learning TypeScript, Front-end Web Development 
 - 💞️ I’m looking to collaborate on ---
-- 📫 How to reach me email on 'mansoor.ahmed11521@gmail.com'
+- 📫 You can reach me through email on 'mansoor.ahmed11521@gmail.com'
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ---
 
