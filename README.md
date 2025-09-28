@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Mansoor Ahmed
-- 👀 I’m interested in Web Development, Artificial Intelligence & Data Science
-- 🌱 I’m currently learning TypeScript, Front-end Web Development 
-- 💞️ I’m looking to collaborate on ---
-- 📫 You can reach me through email on 'mansoor.ahmed11521@gmail.com'
+- 👀 I’m interested in Agentic and Robotic AI
+- 🌱 I’m currently learning Agentic AI
+- 💞️ I’m looking to collaborate on Web Development(Next.js)
+- 📫 You can reach me through email on 'mansoor.ahmed11521@gmail.com or mansoorahmedsurti@gmail.com'
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ---
+
 
 <!---
 Mansoor-Ahmed1/Mansoor-Ahmed1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
